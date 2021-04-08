@@ -1,0 +1,23 @@
+{
+  "name": "mock-backend-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learneradarsh/mock-backend-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learneradarsh/mock-backend-setup/issues"
+  },
+  "homepage": "https://github.com/learneradarsh/mock-backend-setup#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
